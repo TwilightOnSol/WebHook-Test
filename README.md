@@ -5,3 +5,5 @@ This repository is part of the TwilightOnSol ecosystem. It has been audited and 
 
 ## Project Structure
 - testing.txt
+- README.md
+- Manus AI feedback & overview
