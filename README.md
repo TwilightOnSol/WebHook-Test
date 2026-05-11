@@ -1,9 +1,9 @@
-# WebHook-Test
+# WebHook Test
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A simple sandbox environment for testing and debugging webhooks, particularly for Discord integrations. It allows developers to verify payload delivery and formatting.
 
-## Project Structure
-- testing.txt
-- README.md
-- Manus AI feedback & overview
+## Features
+- **Payload Testing**: Verify how data is received by webhook endpoints.
+- **Simple Setup**: Minimalist repository for quick testing sessions.
+- **Debug Logs**: Keep track of testing results in `testing.txt`.
